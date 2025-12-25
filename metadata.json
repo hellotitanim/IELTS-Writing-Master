@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Writing Master",
+  "description": "An AI-powered assistant for IELTS students to get detailed feedback and model answers for Writing Task 1 and Task 2. This app uses Gemini to analyze essays based on official band descriptors and provides band-specific examples to help users improve their writing scores.",
+  "requestFramePermissions": []
+}
